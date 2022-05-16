@@ -1,7 +1,7 @@
 # Inference-of-Heterogeneous-Collectives
 
 ### Relative Model Architecture:
-![Relative model drawio](https://user-images.githubusercontent.com/68490344/168522596-aaee68bb-d421-4403-b2d4-51304d22c95c.png)
+![Relative model drawio](https://user-images.githubusercontent.com/68490344/168522852-c5e21e63-2087-41cc-abb3-efc80e69b744.png)
 
 ### Performance with Sigmoid Activation:
 ![acc1](https://user-images.githubusercontent.com/68490344/168522547-56870c61-7916-4c92-b71a-2d7048d2c787.png)
